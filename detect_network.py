@@ -1,6 +1,5 @@
 import netifaces
 
-
 myinterface = "wlan0"
 
 def is_interface_up(interface):
